@@ -1,0 +1,4 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+WARNING: File mem.dat referenced on D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sim_1/imports/MIPS/MIPS_TB.sv at line 16 cannot be opened for reading. Please ensure that this file is available in the current working directory.
+WARNING: File instrac_mem.dat referenced on D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sim_1/imports/MIPS/MIPS_TB.sv at line 17 cannot be opened for reading. Please ensure that this file is available in the current working directory.

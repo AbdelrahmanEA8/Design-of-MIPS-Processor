@@ -1,0 +1,10 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 253007733aed4667b8e7469f56546587 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot MIPS_TB_func_synth xil_defaultlib.MIPS_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-2063] Module <ALU> not found while processing module instance <M3> [D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/MIPS.v:70]
+ERROR: [VRFC 10-2063] Module <CTRL_Unit> not found while processing module instance <M4> [D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/MIPS.v:78]
+ERROR: [VRFC 10-2063] Module <data_mem> not found while processing module instance <M5> [D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/MIPS.v:91]
+ERROR: [VRFC 10-2063] Module <sign_extend> not found while processing module instance <M6> [D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/MIPS.v:100]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

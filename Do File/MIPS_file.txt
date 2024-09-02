@@ -1,0 +1,8 @@
+ALU.v
+CTRL_Unit.v
+data_mem.v
+instruction_mem.v
+reg_file.v
+sign_extend.v
+MIPS.v
+MIPS_TB.sv

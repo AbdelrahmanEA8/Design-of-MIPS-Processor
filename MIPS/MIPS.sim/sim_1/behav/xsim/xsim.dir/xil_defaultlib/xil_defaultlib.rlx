@@ -1,0 +1,13 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sim_1/imports/MIPS/MIPS_TB.sv,1725262246,systemVerilog,,,,MIPS_TB,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/ALU.v,1725196476,verilog,,D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/CTRL_Unit.v,,ALU,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/CTRL_Unit.v,1725220143,verilog,,D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/MIPS.v,,CTRL_Unit,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/MIPS.v,1725253630,verilog,,D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/data_mem.v,,MIPS,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/data_mem.v,1725221977,verilog,,D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/instraction_mem.v,,data_mem,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/instraction_mem.v,1725216741,verilog,,D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/reg_file.v,,instraction_memory,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/reg_file.v,1725199924,verilog,,D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/sign_extend.v,,reg_file,,,,,,,,
+D:/Digital IC Design/Projects/MIPS/MIPS/MIPS.srcs/sources_1/imports/MIPS/sign_extend.v,1725200246,verilog,,,,sign_extend,,,,,,,,
